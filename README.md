@@ -6,7 +6,7 @@ Full-Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sauravsoni8980@gmail.com](mailto:sauravsoni8980@gmail.com)
-* 🧠  I'm learning Laravel and Vue.js
+* 🧠  I'm learning Next.js
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
 <a href="https://www.twitter.com/s0urav_soni" target="_blank" rel="noreferrer"><img
